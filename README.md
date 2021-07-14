@@ -1,2 +1,2 @@
 download it at 
-``` npm i @bdsx/customitems
+``` npm i @bdsx/customitems ```
